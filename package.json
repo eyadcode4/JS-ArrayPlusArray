@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "vitest": "^2.0.2"
+  },
+  "name": "jsarrayplusarray",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "eyad",
+  "license": "ISC",
+  "description": ""
+}
